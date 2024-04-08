@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula JS</title>
+</head>
+<body>
+    <h1>Primeiro codigo JS</h1>
+</body>
+<script>
+
+    let cores = ["#DE0000", "#FFFFFF", "#000000"];
+    document.body.style.background = cores[0];
+
+    function trocarCor() {
+        document.body.style.backgroundColor = cores[Math.floor(3*Math.random())];
+    }
+    setInterval(trocarCor, 1000);
+</script>
+</html>
