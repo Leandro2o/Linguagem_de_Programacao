@@ -19,7 +19,7 @@ O repositório está organizado de forma a facilitar o acesso aos tópicos estud
 
 Dependendo do foco dos seus estudos, as ferramentas abaixo são utilizadas no repositório:
 
-* Linguagem Principal: Html, CSS]
+* Linguagem Principal: Html, CSS
 * Ambiente de Desenvolvimento: VSCode
 * Versionamento: Git & GitHub
 
